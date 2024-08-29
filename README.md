@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @debjit2001. I had completed my B.Tech in Information Technology from Academy of Technology with a cgpa of 9.30.
-- 👀 I’m interested in Android development.
-- 🌱 I’m currently learning Python,Java,Android.
-- 💞️ I’m looking to collaborate on projects based on Android Development and machine learning.
-- 📫 How to reach me on LinkedIn- linkedin.com/in/debjit-chatterjee-5683bb1a3
-- I have 2+ years of Industry experience where I worked as Java SpringBoot backend developer.
+# Hi there 👋, I'm Debjit Chatterjee
 
-<!---
-debjit2001/debjit2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a Project Executive in IIT Kharagpur with a passion for Research. I specialize in Java, SpringBoot, Android Development, Python.
+
+- 🔭 I’m currently working on Sensing projects.
+- 🌱 I’m currently learning about sensors and radar systems.
+- 👯 I’m looking to collaborate on sensing projects.
+- 💬 Ask me about SpringBoot, Java, Python.
+- 📫 How to reach me: debjit80659@gmail.com.
+
+## 🛠️ Skills and Tools
+- Programming Languages: C, Java, Python
+- Frameworks: SpringBoot
+- Tools: Android Studio
+
+## 📈 GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=debjit2001&show_icons=true&theme=radical)](https://github.com/debjit2001)
+
+## 📌 Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=reponame)](https://github.com/debjit2001/reponame)
+
+## 🤝 Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/debjit-chatterjee-5683bb1a3/))
