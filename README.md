@@ -19,9 +19,9 @@ I'm a Project Executive in IIT Kharagpur with a passion for Research. I speciali
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=SensorDataCapture)](https://github.com/debjit2001/reponame)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=CSI_IMU_CAPTURE )](https://github.com/debjit2001/reponame)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=GenAI_Ecommerce )](https://github.com/debjit2001/reponame)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=nit_internship_codes )](https://github.com/debjit2001/reponame)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=CSI_IMU_CAPTURE)](https://github.com/debjit2001/reponame)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=GenAI_Ecommerce)](https://github.com/debjit2001/reponame)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=nit_internship_codes)](https://github.com/debjit2001/reponame)
 
 ## 🤝 Connect with Me
 - [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/debjit-chatterjee-5683bb1a3/))
