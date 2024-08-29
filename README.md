@@ -18,7 +18,7 @@ I'm a Project Executive in IIT Kharagpur with a passion for Research. I speciali
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=debjit2001&show_icons=true&theme=radical)](https://github.com/debjit2001)
 
 ## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=reponame)](https://github.com/debjit2001/reponame)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=SensorDataCapture)](https://github.com/debjit2001/reponame)
 
 ## 🤝 Connect with Me
 - [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/debjit-chatterjee-5683bb1a3/))
