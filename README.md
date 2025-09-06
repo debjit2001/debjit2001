@@ -21,4 +21,4 @@ I'm a Project Executive in IIT Kharagpur with a passion for Research. I speciali
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=SensorDataCapture)](https://github.com/debjit2001/SensorDataCapture)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=CSI_IMU_CAPTURE)](https://github.com/debjit2001/CSI_IMU_CAPTURE)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=GenAI_Ecommerce)](https://github.com/debjit2001/GenAI_Ecommerce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=nit_internship_codes)](https://github.com/debjit2001/nit_internship_codes)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=debjit2001&repo=nit_internship_codes)]([https://github.com/debjit2001/nit_internship_codes)
